@@ -11,7 +11,7 @@ The presentation will available at https://[your username].github.io/[repo name]
 - Download this boilerplate:
 
 ```bash
-curl https://github.com/NeverMendel/reveal-md-boilerplate/archive/master.zip --output boilerplate.zip
+curl https://codeload.github.com/NeverMendel/Reveal-md-Boilerplate/zip/master --output boilerplate.zip
 ```
 
 - Extract the files:
@@ -20,10 +20,17 @@ curl https://github.com/NeverMendel/reveal-md-boilerplate/archive/master.zip --o
 unzip ./boilerplate.zip
 ```
 
-- Remove the zip you've just downloaded:
+- Move the files to the root directory:
+
+```bash
+mv ./Reveal-md-Boilerplate-master/* .
+```
+
+- Remove the zip you've just downloaded and the `Reveal-md-Boilerplate-master` folder:
 
 ```bash
 rm ./boilerplate.zip
+rm -r Reveal-md-Boilerplate-master
 ```
 
 - Install all the dependency by executing:
