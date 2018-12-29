@@ -1,0 +1,12 @@
+{
+  "name": "reveal-md-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for reveal-md",
+  "devDependencies": {
+    "reveal-md": "^2.4.0"
+  },
+  "scripts": {
+    "start": "reveal-md ./slides.md",
+    "build": "reveal-md ./slides.md --static _site --static-dirs=assets"
+  }
+}
