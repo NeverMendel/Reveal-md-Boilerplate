@@ -1,17 +1,17 @@
 # Reveal-md Boilerplate
 
-[![Build Status](https://travis-ci.com/NeverMendel/Reveal-md-Boilerplate.svg?branch=master)](https://travis-ci.com/NeverMendel/Reveal-md-Boilerplate)
+[![Build Status](https://travis-ci.com/NeverMendel/Revealmd-Boilerplate.svg?branch=master)](https://travis-ci.com/NeverMendel/Revealmd-Boilerplate)
 
 Boilerplate for [reveal-md](https://github.com/webpro/reveal-md). Start writing your presentation in under 5 minutes.
 
-The presentation will available at https://[your username].github.io/[repo name]. This one is available at https://nevermendel.github.io/Reveal-md-Boilerplate
+The presentation will available at https://[your username].github.io/[repo name]. This one is available at https://nevermendel.github.io/Revealmd-Boilerplate
 
 ## Get started
 
 - Download this boilerplate:
 
 ```bash
-git clone --depth=1 https://github.com/NeverMendel/Reveal-md-Boilerplate.git <your project name>
+git clone --depth=1 https://github.com/NeverMendel/Revealmd-Boilerplate.git <your project name>
 ```
 
 - Move to the project directory:
